@@ -34,10 +34,6 @@ namespace Con_tt
                 string temp = eq[1].ToString();
                 //string t=MyUrlDeCode(temp,Encoding.GetEncoding("GB2312"));
                 Console.WriteLine(temp);
-                
-
-
-                
             }
         }
 
